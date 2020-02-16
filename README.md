@@ -4,6 +4,8 @@ Community documentation for vis.social Mastodon instance
 ## Visit us 
 https://vis.social
 
+Registration is currently OPEN, and MODERATED.
+
 
 ## Sponsors
 
