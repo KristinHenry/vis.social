@@ -6,10 +6,12 @@ vis.social is an open social platform for creative people, especially anyone in 
 ## Visit us 
 https://vis.social
 
-Registration is currently OPEN, and MODERATED.
+Registration is currently CLOSED, and MODERATED.
 
 
 ## Sponsors
 
-Sign up to sponsor hosting and other expenses:
-https://github.com/sponsors/KristinHenry
+There are currently 3 options for chipping in to help sponsor hosting and other expenses:
+* https://ko-fi.com/artatomic
+* https://github.com/sponsors/KristinHenry
+* https://www.patreon.com/KristinHenry
