@@ -130,7 +130,7 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 
 * CW 
 
-* Sensative Content
+* Sensitive Content
 
 * 'Algorithm' and timelines
 
