@@ -108,7 +108,7 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 .
 
 ----------------------------------------------------------
-** *The following documentation is currently in development and may change without announcement* **
+** *The following documentation is currently in development and is frequently modified* **
 
 # FAQ & Info
 
