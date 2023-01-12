@@ -173,6 +173,13 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 	```
 
 
+* Case: post shows off-topic food photos:
+	* Reply with
+	```
+	I'm not sure if you're aware, but it's a general custom, on mastodon-at-large, to use a CW "content Wrapper" with "food" as the heading when posting photos of food and some other topics. 
+	Fortunately, mastodon lets us edit posts and add CWs.
+	```
+
 
 ### How to moderate a report
 
