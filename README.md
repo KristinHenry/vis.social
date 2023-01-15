@@ -130,6 +130,8 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 
 * CW 
 
+* 'Alt-text', or Image Description
+
 * Sensitive Content
 
 * 'Algorithm' and timelines
@@ -139,6 +141,11 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 * Reporting abuse and harassment
 	* on our instance
 	* from other instances
+
+
+## How to...
+* ... add alt-text to an image in a new post:
+* ... add alt-text to an image in an existing post:
 
 
 ## Tools and habits for supporting a diverse community?
