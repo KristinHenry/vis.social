@@ -150,6 +150,14 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 
 * Interacting with accounts on other instances
 
+* Sh+t-posting
+	* Yeah, we all want to do it, but this isn't twitter, or whatever.
+	* We're building a community, not individual broadcasting
+	* We're all human, and sometimes, we just need to express!
+		* That's cool, we all do that from time to time
+		* But if all you do it sh+t-posting, maybe this isn't the instance for you. And actually, maybe Mastodon isn't for you at all.
+
+
 * Reporting abuse and harassment
 	* on our instance
 	* from other instances
