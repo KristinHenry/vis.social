@@ -115,10 +115,22 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 ## What do these mean?
 
 * Local timeline
+	* this is all the posts from accounts on this instance that are public. See 'unlisted'
 
 * Federated timeline
+	* this is all the public posts on all of all public instances of mastodon (need to check on exactly how much)
 
-* 'Off Topic'
+
+* Home timeline
+	* Your home timeline has posts and boosts from accounts that you follow. These can be from your instance and other instances.
+
+* 'Off Topic' vs 'On Topic'
+
+	* vis.social is a topic based instance, but our topics are fairly broad: "SciArt, SciVis SciComm, data science, data visualization, creative coding, and related arts and research".
+
+	* are 'off-topic' posts ok? 
+		* yes, but please in moderation. Try to keep your posts mostly on topic, but we are all full persons and have many interests and experiences
+		* if you're not sure, use a CW as a 'Wrapper' or 'Headline', and let folks decide if they want to read your off-topic posts on the Local timeline.
 
 * Unlisted posts
 
