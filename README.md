@@ -140,9 +140,15 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 
 * Starring
 
-* CW 
+
 
 * 'Alt-text', or Image Description
+	* When you upload an image as part of your post, depending on your client, you should be able to add a description of the image...otherwise known as 'alt-text'.
+	* Part of our function as moderators, is to boost posts from folks on our instance...but we'll only boost your posts if you've added alt-text to them. Sometimes, it's really hard for us to resist, but we're pushing ourselves to only boost images posts that have alt-text.
+	* Bottom line, we're not going to suspend you for not bothering with alt-text, but we won't be boosting you.
+	* After posting, you can still add alt-text in and edit. You have to edit the post, delete the image from the post, re-upload the image and add a 'description' which is alt-text.
+
+* CW 
 
 * Sensitive Content
 
