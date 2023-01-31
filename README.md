@@ -115,14 +115,16 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 ## What do these mean?
 
 * Local timeline
+	* The Local timeline is the heart of our community.
 	* this is all the posts from accounts on this instance that are public. See 'unlisted'
-
-* Federated timeline
-	* this is all the public posts on all of all public instances of mastodon (need to check on exactly how much)
+	* If you're using a client that doesn't show you the 'Local timeline', you may use a browser to access the instance and stay connected with our community.
 
 
 * Home timeline
 	* Your home timeline has posts and boosts from accounts that you follow. These can be from your instance and other instances.
+
+* Federated timeline
+	* this is all the public posts on all of all public instances of mastodon (need to check on exactly how much)
 
 * 'Off Topic' vs 'On Topic'
 
