@@ -172,8 +172,23 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 
 
 ## How to...
-* ... add alt-text to an image in a new post:
-* ... add alt-text to an image in an existing post:
+
+### add alt-text to an image in a new post:
+
+	1. open the 'edit' option on the image
+	2. Add text describing the image, or edit existing descriptive text.
+
+	![Adding Alt Text](/images/editAltText.jpg)
+
+### add alt-text to an image in an **existing** post:
+
+	1. open the 'edit' option on your post
+
+	![Adding Alt Text](/images/editingPost_2.jpg)
+
+	2. open the 'edit' option on the image
+	3. Add text describing the image, or edit existing descriptive text.
+	![Adding Alt Text](/images/editAltText.jpg)
 
 
 ## Tools and habits for supporting a diverse community?
