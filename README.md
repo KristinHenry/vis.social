@@ -148,7 +148,7 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 	* When you upload an image as part of your post, depending on your client, you should be able to add a description of the image...otherwise known as 'alt-text'.
 	* Part of our function as moderators, is to boost posts from folks on our instance...but we'll only boost your posts if you've added alt-text to them. Sometimes, it's really hard for us to resist, but we're pushing ourselves to only boost images posts that have alt-text.
 	* Bottom line, we're not going to suspend you for not bothering with alt-text, but we won't be boosting you.
-	* After posting, you can still add alt-text in and edit. You have to edit the post, delete the image from the post, re-upload the image and add a 'description' which is alt-text.
+	* After posting, you can still add alt-text in and edit. You have to edit the post, ~~delete the image from the post, re-upload the image and add a 'description' which is alt-text.~~ We can now add alt-text while editing an existing post, just as if it were a new post.
 
 * CW 
 
@@ -175,20 +175,20 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 
 ### add alt-text to an image in a new post:
 
-	1. open the 'edit' option on the image
-	2. Add text describing the image, or edit existing descriptive text.
+1. open the 'edit' option on the image
+2. Add text describing the image, or edit existing descriptive text.
 
-	![Adding Alt Text](/images/editAltText.jpg)
+![Adding Alt Text](/images/editAltText.jpg)
 
 ### add alt-text to an image in an **existing** post:
 
-	1. open the 'edit' option on your post
+1. open the 'edit' option on your post
 
-	![Adding Alt Text](/images/editingPost_2.jpg)
+![Adding Alt Text](/images/editingPost_2.jpg)
 
-	2. open the 'edit' option on the image
-	3. Add text describing the image, or edit existing descriptive text.
-	![Adding Alt Text](/images/editAltText.jpg)
+2. open the 'edit' option on the image
+3. Add text describing the image, or edit existing descriptive text.
+![Adding Alt Text](/images/editAltText.jpg)
 
 
 ## Tools and habits for supporting a diverse community?
