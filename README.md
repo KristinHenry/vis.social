@@ -178,7 +178,9 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 1. open the 'edit' option on the image
 2. Add text describing the image, or edit existing descriptive text.
 
-![Adding Alt Text](/images/editAltText.jpg)
+<img src="/images/editAltText.jpg" alt="alt text" width="100">
+
+![Adding Alt Text](/images/editAltText.jpg )
 
 ### add alt-text to an image in an **existing** post:
 
