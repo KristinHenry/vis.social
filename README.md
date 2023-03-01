@@ -187,8 +187,9 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 <img src="/images/editingPost_2.jpg" alt="Editing A Post" width="200">
 
 2. open the 'edit' option on the image
-3. Add text describing the image, or edit existing descriptive text.
 <img src="/images/editAltText.jpg" alt="Adding Alt Text" width="200">
+
+3. Add text describing the image, or edit existing descriptive text.
 
 
 ## Tools and habits for supporting a diverse community?
@@ -207,13 +208,16 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 
 # Moderator and Admin tools and challenges
 
+The Mastodon software that runs on our server comes with a lot of tools to help us build our community. Some of them are great, and some could use improvements. But we work with the tools we have.
+
+
 ## Moderators
 
 * What's involved in being a moderator?
 * How much time does it involve?
 
 
-### Some common cases and things to say
+### Some common cases and things to say, when you see a post on our instance that needs reminders about our policies and rules.
 
 * Case: post is not in English and doesn't have an English translation
 
