@@ -192,6 +192,12 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 3. Add text describing the image, or edit existing descriptive text.
 
 
+### upload a video
+
+* Please avoid uploading directly to our servers.
+* Instead, please upload to another service and post the link here.
+* Why? To avoid using up our server space and increasing the cost of running this istance/community servers.
+
 ## Tools and habits for supporting a diverse community?
 * hashtags
 * CWs...
