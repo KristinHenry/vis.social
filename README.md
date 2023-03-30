@@ -219,8 +219,23 @@ The Mastodon software that runs on our server comes with a lot of tools to help 
 
 ## Moderators
 
-* What's involved in being a moderator?
-* How much time does it involve?
+### What's involved in being a moderator?
+* Boost insteresting posts from our community, and beyond -- images should have alt-text
+
+* Process reports for our community. 
+
+* Remind folks to add CWs for off-topic posts that include images of food, etc. check our current guidelines.
+
+* If signups are open, help proccess applications to join the instance (community). New sign ups are currently closed.
+
+* We're also considering some optional community building activites, but they're still on the back-bench for now.
+
+
+### How much time does it involve?
+
+Usually, it's just a few minutes a day. 
+
+Occassionally, an issue comes up that needs to be dealt with. This can be a minor thing in our community. But sometimes, it's a case of bad actors on other instances attacking/harassing our community members (these attacks are usually targetting many comunites, not just ours). These are usually quick to deal with, but are sometimes more involved. In these cases, you'd want to get in touch with the moderation team.
 
 
 ### Some common cases and things to say, when you see a post on our instance that needs reminders about our policies and rules.
