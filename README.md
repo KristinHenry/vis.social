@@ -220,6 +220,9 @@ The Mastodon software that runs on our server comes with a lot of tools to help 
 ## Moderators
 
 ### What's involved in being a moderator?
+
+* Pace yourself! It's easy to get overwhelmed and burn out. It's easy to get lost down fascinating rabbit holes, loose track of time, and burn out. If you need to, give yourself time limits. 
+
 * Boost insteresting posts from our community, and beyond -- images should have alt-text
 
 * Process reports for our community. 
