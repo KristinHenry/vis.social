@@ -258,6 +258,13 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 	Fortunately, mastodon lets us edit posts and add CWs.
 	```
 
+* Case: post about AI/ChatGPT:
+	* Reply with 
+	```
+	Just a gentle reminder about CW's on our Local timeline and our instance rules: https://vis.social/about 
+	CW on AI topics. Please add CW for posts about AI, especially tools like ChatGPT. 
+	```
+
 
 ### How to moderate a report
 
