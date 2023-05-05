@@ -25,86 +25,6 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 * https://www.patreon.com/KristinHenry
 
 
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
 .
 
 ----------------------------------------------------------
@@ -208,6 +128,8 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 
 
 ## Why didn't you write this earlier?
+
+The massive influx of folks in late 2022, was a bit overwhelming to keep up with. Mastodon is evolving, and we're figuring out what this means for us at the same time. So, this is a work-in-progress.
 
 
 #-------------------------------------------------
