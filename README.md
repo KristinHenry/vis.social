@@ -44,7 +44,7 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 	* Your home timeline has posts and boosts from accounts that you follow. These can be from your instance and other instances.
 
 * Federated timeline
-	* this is all the public posts on all of all public instances of mastodon (need to check on exactly how much)
+	* this is all the public posts on all of all public instances of mastodon (that our server interacts with).
 
 * 'Off Topic' vs 'On Topic'
 
