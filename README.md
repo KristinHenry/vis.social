@@ -1,38 +1,45 @@
 # vis.social
-Community documentation for vis.social Mastodon instance
 
-vis.social is an open social platform for creative people, especially anyone in SciArt, SciVis SciComm, data science, data visualization, creative coding, and related arts and research. 
 
-English is the common language of the instance. 
+There are different communities on Mastodon, and the greater Fediverse. They have different personalities, topics, and rules.
+
+Before joining an instance (community), you should check to see if it looks like a good fit for you. Check the instance 'Rules'. Some might suprise you, but they usually exist for good reasons, and often because someting bad happened in the past.
+
+**Vis.social** is a topic based community of creative people, especially anyone in SciArt, SciVis SciComm, data science, data visualization, creative coding, and related arts and research. 
+
 
 https://vis.social/about
 
 ## Visit us 
 https://vis.social
 
-Registration is currently CLOSED, and MODERATED.
+Registration is currently CLOSED, and MODERATED.  If you'd still like to join, get in touch with contact listed on our https://vis.social/about, with a brief introduction and why you'd like to join our community.
 
-We're looking into opening again, eventually.
 
 
 ## Financials
 
-This instance is financed by it's admin and community.
+This instance is financed by it's admin and community. 
 
-There are currently 3 options for chipping in to help sponsor hosting and other expenses:
+Our annual opperating costs (hosting, domain renewals, etc) are currently over $2,400, and all admin and moderation is performed by volunteers.
+
+There are currently 3 options for chipping in to support hosting and other expenses:
 * https://ko-fi.com/artatomic
 * https://github.com/sponsors/KristinHenry
 * https://www.patreon.com/KristinHenry
 
 
-.
+
 
 ----------------------------------------------------------
-** *The following documentation is currently in development and is frequently modified* **
+** *The following is currently in development and is frequently modified* **
 
 # FAQ & Info
 
 ## What do these mean?
+
+* Instance vs Server vs Community
+	* These words are often used interchangebly, and some prefer one over another. They all basically refer to the same thing: software installed and running an a server, used by an online community.
 
 * Local timeline
 	* The Local timeline is the heart of our community.
@@ -55,12 +62,24 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 		* if you're not sure, use a CW as a 'Wrapper' or 'Headline', and let folks decide if they want to read your off-topic posts on the Local timeline.
 
 * Unlisted posts
+	* You can set the privacy level of your posts, but clicking on the 'globe' icon in the post interface. This will bring up a menu of options:
+		* **Public**: it shows up in the Local timeline, and is fully public.
+		* **Unlisted**: doesn not show up in the Local timeline.
+		* **Followers only**: only your followers will see this.
+		* **Mentioned only**: This is the equivalent to a DM on other platforms. They are not visible to anyone except the accounts mentioned. Moderators will not see these, unless someone mention reports it to the moderation team. Note: If you recieve an abusive mention, please report it, so that we can help keep vis.social a safer place.
 
 * Instance Rules
+	* Every Mastodon instance/community has their own set of rules. 
+	* Please review our community Rules: https://vis.social/about
 
 * Boosting
+	* Boosting is how Mastodon supports sharing posts. 
+	* Your followers will be able to see your boosts, if they haven't set their client to filter out boosts.
+
 
 * Starring
+	* Unlike other platforms, starring has no impact on how often a post appears on anyone's timeline. There is no algorithm to manipulate.
+	* Starring is a lovely little note...when you don't have the words...to just say to the author "hey! I liked this!"
 
 
 
@@ -71,14 +90,23 @@ There are currently 3 options for chipping in to help sponsor hosting and other 
 	* After posting, you can still add alt-text in and edit. You have to edit the post, ~~delete the image from the post, re-upload the image and add a 'description' which is alt-text.~~ We can now add alt-text while editing an existing post, just as if it were a new post.
 
 * CW 
+	* While "CW" technically stands for "Content Warning", vis.social and most instances use it as a "Wrapper". It's a way of adding a content label, with is very useful for noting if a post is off-topic or might need a subject line.
+	* vis.social requires CWs for various subjects, including food, alchohol. Check our Rules for current topics require (or request) CWs on. 
+	* It's easy to add a CW while writing your post. You can even edit an extisting post and add a CW.
 
 * Sensitive Content
+	* when uploading an image or video, you can check the 'Mark as Sensitive' option.
+	* anything that might need to be marked as sensitive, should probably also have a CW.
+
 
 * 'Algorithm' and timelines
+	* Unlike many social media platforms, Mastodon does not use an 'algorithm' to control what shows up in your timeline. 
 
-* Interacting with accounts on other instances
+* Interacting with accounts on other instances:
 
-* Sh+t-posting
+	* ToDo!
+
+* Sh+t-posting:
 	* Yeah, we all want to do it, but this isn't twitter, or whatever.
 	* We're building a community, not individual broadcasting
 	* We're all human, and sometimes, we just need to express!
