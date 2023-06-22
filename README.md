@@ -216,6 +216,23 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 	```
 
 
+* Case: a new application has not seen our request for more information when requesting to join the vis.social community. This can be sent via email:
+
+```
+Hello!
+
+Thank you for signing up to join the vis.social community on Mastodon.
+
+Depending on the client you used to sign up with, you may not have seen our extended application informaion request:
+
+"We do ask that you write something about your interest in this instance and it's topics, or we'll assume you're a spammer and reject your request.  Also, we'd like to know a little about you, your interests, and what brings you here. Please review our documentation before applying to join our community:  https://github.com/KristinHenry/vis.social"
+
+You may complete you application by replying to this email.
+
+--curator@vis.social 
+
+```
+
 ### How to moderate a report
 
 ### Levels of action
