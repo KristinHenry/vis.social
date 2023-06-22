@@ -13,7 +13,7 @@ https://vis.social/about
 ## Visit us 
 https://vis.social
 
-Registration is currently OPEN, and MODERATED.  ~~~If you'd still like to join, get in touch with contact listed on our https://vis.social/about, with a brief introduction and why you'd like to join our community.~~~
+Registration is currently OPEN, and MODERATED.  ~~If you'd still like to join, get in touch with contact listed on our https://vis.social/about, with a brief introduction and why you'd like to join our community.~~
 
 
 
