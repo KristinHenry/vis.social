@@ -193,6 +193,15 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 
 ### Some common cases and things to say, when you see a post on our instance that needs reminders about our policies and rules.
 
+* Case: a new member has joined our community
+	* send a DM with
+	```
+	Welcome to vis.social! 
+	In case you haven't seen it, we've worked on some documentation so folks can get familiar with mastodon and our community: https://github.com/KristinHenry/vis.social
+	--vis.social mod team
+	```
+
+
 * Case: post is not in English and doesn't have an English translation
 
 	* Reply with 
@@ -232,6 +241,7 @@ You may complete you application by replying to this email.
 --curator@vis.social 
 
 ```
+
 
 ### How to moderate a report
 
