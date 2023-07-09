@@ -206,7 +206,7 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 
 	* Reply with 
 	```
-	Just a reminder that "English is the common language of the instance. Other languages are welcome, but please be kind and post English translations so that we can all read your posts on the Local Timeline. Alternatively, you could edit your post and set it as unlisted or followers only."  https://vis.social/about
+	Just a reminder that "English is the common language of this community instance. Other languages are welcome, but please be kind and post English translations so that we can all read your posts on the Local Timeline. Alternatively, you could edit your post and set it as unlisted or followers only."  https://vis.social/about
 	```
 
 
