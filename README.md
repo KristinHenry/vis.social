@@ -39,84 +39,83 @@ There are currently 3 options for chipping in to support hosting and other expen
 ## What do these mean?
 
 ### Instance vs Server vs Community
-	* These words are often used interchangebly, and some prefer one over another. They all basically refer to the same thing: software installed and running an a server, used by an online community.
+* These words are often used interchangebly, and some prefer one over another. They all basically refer to the same thing: software installed and running an a server, used by an online community.
 
 ### Local timeline
-	* The Local timeline is the heart of our community.
-	* this is all the posts from accounts on this instance that are public. See 'unlisted'
-	* If you're using a client that doesn't show you the 'Local timeline', you may use a browser to access the instance and stay connected with our community.
+* The Local timeline is the heart of our community.
+* this is all the posts from accounts on this instance that are public. See 'unlisted'
+* If you're using a client that doesn't show you the 'Local timeline', you may use a browser to access the instance and stay connected with our community.
 
 
 ### Home timeline
-	* Your home timeline has posts and boosts from accounts that you follow. These can be from your instance and other instances.
+* Your home timeline has posts and boosts from accounts that you follow. These can be from your instance and other instances.
 
 ### Federated timeline
-	* this is all the public posts on all of all public instances of mastodon (that our server interacts with).
+* this is all the public posts on all of all public instances of mastodon (that our server interacts with).
 
 ### 'Off Topic' vs 'On Topic'
 
-	* vis.social is a topic based instance, but our topics are fairly broad: "SciArt, SciVis SciComm, data science, data visualization, creative coding, and related arts and research".
+* vis.social is a topic based instance, but our topics are fairly broad: "SciArt, SciVis SciComm, data science, data visualization, creative coding, and related arts and research".
 
-	* are 'off-topic' posts ok? 
-		* yes, but please in moderation. Try to keep your posts mostly on topic, but we are all full persons and have many interests and experiences
-		* if you're not sure, use a CW as a 'Wrapper' or 'Headline', and let folks decide if they want to read your off-topic posts on the Local timeline.
+* are 'off-topic' posts ok? 
+	* yes, but please in moderation. Try to keep your posts mostly on topic, but we are all full persons and have many interests and experiences
+	* if you're not sure, use a CW as a 'Wrapper' or 'Headline', and let folks decide if they want to read your off-topic posts on the Local timeline.
 
-### Unlisted posts
-	* You can set the privacy level of your posts, but clicking on the 'globe' icon in the post interface. This will bring up a menu of options:
-		* **Public**: it shows up in the Local timeline, and is fully public.
-		* **Unlisted**: doesn not show up in the Local timeline.
-		* **Followers only**: only your followers will see this.
-		* **Mentioned only**: This is the equivalent to a DM on other platforms. They are not visible to anyone except the accounts mentioned. Moderators will not see these, unless someone mention reports it to the moderation team. Note: If you recieve an abusive mention, please report it, so that we can help keep vis.social a safer place.
+### Unlisted Posts and Privacy Levels
+* You can set the privacy level of your posts, but clicking on the 'globe' icon in the post interface. This will bring up a menu of options:
+	* **Public**: it shows up in the Local timeline, and is fully public.
+	* **Unlisted**: doesn not show up in the Local timeline.
+	* **Followers only**: only your followers will see this.
+	* **Mentioned only**: This is the equivalent to a DM on other platforms. They are not visible to anyone except the accounts mentioned. Moderators will not see these, unless someone mention reports it to the moderation team. Note: If you recieve an abusive mention, please report it, so that we can help keep vis.social a safer place.
 
 ### Instance Rules
-	* Every Mastodon instance/community has their own set of rules. 
-	* Please review our community Rules: https://vis.social/about
+* Every Mastodon instance/community has their own set of rules. 
+* Please review our community Rules: https://vis.social/about
 
 ### Boosting
-	* Boosting is how Mastodon supports sharing posts. 
-	* Your followers will be able to see your boosts, if they haven't set their client to filter out boosts.
+* Boosting is how Mastodon supports sharing posts. 
+* Your followers will be able to see your boosts, if they haven't set their client to filter out boosts.
 
 
 ### Starring
-	* Unlike other platforms, starring has no impact on how often a post appears on anyone's timeline. There is no algorithm to manipulate.
-	* Starring is a lovely little note...when you don't have the words...to just say to the author "hey! I liked this!"
+* Unlike other platforms, starring has no impact on how often a post appears on anyone's timeline. There is no algorithm to manipulate.
+* Starring is a lovely little note...when you don't have the words...to just say to the author "hey! I liked this!"
 
 
 
 ### 'Alt-text', or Image Description
-	* When you upload an image as part of your post, depending on your client, you should be able to add a description of the image...otherwise known as 'alt-text'.
-	* Part of our function as moderators, is to boost posts from folks on our instance...but we'll only boost your posts if you've added alt-text to them. Sometimes, it's really hard for us to resist, but we're pushing ourselves to only boost images posts that have alt-text.
-	* Bottom line, we're not going to suspend you for not bothering with alt-text, but we won't be boosting you.
-	* After posting, you can still add alt-text in and edit. You have to edit the post, ~~delete the image from the post, re-upload the image and add a 'description' which is alt-text.~~ We can now add alt-text while editing an existing post, just as if it were a new post.
+* When you upload an image as part of your post, depending on your client, you should be able to add a description of the image...otherwise known as 'alt-text'.
+* Part of our function as moderators, is to boost posts from folks on our instance...but we'll only boost your posts if you've added alt-text to them. Sometimes, it's really hard for us to resist, but we're pushing ourselves to only boost images posts that have alt-text.
+* Bottom line, we're not going to suspend you for not bothering with alt-text, but we won't be boosting you.
+* After posting, you can still add alt-text in and edit. You have to edit the post, ~~delete the image from the post, re-upload the image and add a 'description' which is alt-text.~~ We can now add alt-text while editing an existing post, just as if it were a new post.
 
 ### CW 
-	* While "CW" technically stands for "Content Warning", vis.social and most instances use it as a "Wrapper". It's a way of adding a content label, with is very useful for noting if a post is off-topic or might need a subject line.
-	* vis.social requires CWs for various subjects, including food, alchohol. Check our Rules for current topics require (or request) CWs on. 
-	* It's easy to add a CW while writing your post. You can even edit an extisting post and add a CW.
+* While "CW" technically stands for "Content Warning", vis.social and most instances use it as a "Wrapper". It's a way of adding a content label, with is very useful for noting if a post is off-topic or might need a subject line.
+* vis.social requires CWs for various subjects, including food, alchohol. Check our Rules for current topics require (or request) CWs on. 
+* It's easy to add a CW while writing your post. You can even edit an extisting post and add a CW.
 
 ### Sensitive Content
-	* when uploading an image or video, you can check the 'Mark as Sensitive' option.
-	* anything that might need to be marked as sensitive, should probably also have a CW.
+* when uploading an image or video, you can check the 'Mark as Sensitive' option.
+* anything that might need to be marked as sensitive, should probably also have a CW.
 
 
 ### 'Algorithm' and timelines
-	* Unlike many social media platforms, Mastodon does not use an 'algorithm' to control what shows up in your timeline. 
+* Unlike many social media platforms, Mastodon does not use an 'algorithm' to control what shows up in your timeline. 
 
 ### Interacting with accounts on other instances:
 
-	* ToDo!
+* ToDo!
 
 ### Sh+t-posting:
-	* Yeah, we all want to do it, but this isn't twitter, or whatever.
-	* We're building a community, not individual broadcasting
-	* We're all human, and sometimes, we just need to express!
-		* That's cool, we all do that from time to time
-		* Try to remember to make these posts as 'Unlisted' or 'Followers Only', and not on the Local Timeline.
-		* But if all you do it sh+t-posting, maybe this isn't the instance for you. And actually, maybe Mastodon isn't for you at all.
-
+* Yeah, we all want to do it, but this isn't twitter, or whatever.
+* We're building a community, not individual broadcasting
+* We're all human, and sometimes, we just need to express!
+	* That's cool, we all do that from time to time
+	* Try to remember to make these posts as 'Unlisted' or 'Followers Only', and not on the Local Timeline.
+	* But if all you do it sh+t-posting, maybe this isn't the instance for you. 
 
 ### Reporting abuse and harassment
-	* ToDo: write this
+* ToDo: write this
 	* on our instance
 	* from other instances
 
