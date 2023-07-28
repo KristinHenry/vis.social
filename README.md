@@ -209,7 +209,7 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 
 	Thank you for applying to join our community on vis.social, but your application is incomplete.
 
-	Please read our 'about' page and all of our instance/server Rules, before reapplying to join our community.
+	Please read our 'about' page and all of our **Server Rules**, before reapplying to join our community.
 
 	https://vis.social/about
 
