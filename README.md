@@ -194,6 +194,31 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 
 ### Some common cases and things to say, when you see a post on our instance that needs reminders about our policies and rules.
 
+
+* Case: a new application looks topic-related, but the person clearly has not read our Rules:
+   * send an email from curator @ vis.social
+
+   * email subject:
+   ```
+   Action Required: Your application to join vis.social
+
+   ```
+   * text of email: 
+   ```
+   Hello!
+
+	Thank you for applying to join our community on vis.social, but your application is incomplete.
+
+	Please read our 'about' page and all of our instance/server Rules, before reapplying to join our community.
+
+	https://vis.social/about
+
+	-- vis.social moderation team
+
+
+   ```
+
+
 * Case: a new member has joined our community
 	* send a DM with
 	```
