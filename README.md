@@ -207,11 +207,15 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
    ```
    Hello!
 
-	Thank you for applying to join our community on vis.social, but your application is incomplete.
+	Thank you for applying to join our community on vis.social! While your application looks great, you left out something we asked for.
 
 	Please read our 'about' page and all of our **Server Rules**, before reapplying to join our community.
 
-	https://vis.social/about
+	Our Server Rules are listed at https://vis.social/about
+
+	If you have any questions, feel free to reply to this message and we'll do our best to help you out.
+
+	
 
 	-- vis.social moderation team
 
