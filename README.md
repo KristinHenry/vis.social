@@ -140,8 +140,8 @@ There are currently 3 options for chipping in to support hosting and other expen
 2. Enter text describing the content of the post
 3. Save Changes
 
-<img src="/images/addCW_01.jpg" alt="Adding CW" width="200">
-<img src="/images/addCW_02.jpg" alt="Adding CW" width="200">
+<img src="/images/addCW_1.jpg" alt="Adding CW" width="200">
+<img src="/images/addCW_2.jpg" alt="Adding CW" width="200">
 
 
 
