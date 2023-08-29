@@ -122,23 +122,27 @@ There are currently 3 options for chipping in to support hosting and other expen
 
 ## How to...
 
-### add alt-text to an image in a new post:
+### Edit your **existing** post:
+1. click on the "..." of your post
+2. Select the "Edit" option
+3. Edit your post.
+<img src="/images/editingPost_2.jpg" alt="Editing A Post" width="200">
 
-1. open the 'edit' option on the image
+### add alt-text to an image in a post:
+
+1. open the 'edit' option on the **image**
 2. Add text describing the image, or edit existing descriptive text.
 
 <img src="/images/editAltText.jpg" alt="Adding Alt Text" width="200">
 
+### add a CW to your post:
+1. Click on the "CW" at the bottom of your post 
+2. Enter text describing the content of the post
+3. Save Changes
 
-### add alt-text to an image in an **existing** post:
+<img src="/images/addCW_01.jpg" alt="Adding CW" width="200">
+<img src="/images/addCW_02.jpg" alt="Adding CW" width="200">
 
-1. open the 'edit' option on your post
-<img src="/images/editingPost_2.jpg" alt="Editing A Post" width="200">
-
-2. open the 'edit' option on the image
-<img src="/images/editAltText.jpg" alt="Adding Alt Text" width="200">
-
-3. Add text describing the image, or edit existing descriptive text.
 
 
 ### upload a video
@@ -176,9 +180,11 @@ The Mastodon software that runs on our server comes with a lot of tools to help 
 
 * Boost insteresting posts from our community, and beyond -- images should have alt-text
 
-* Process reports for our community. 
+* Help process reports for our community, and participate in discussions of reports that are unclear. 
 
 * Remind folks to add CWs for off-topic posts that include images of food, etc. check our current guidelines.
+
+* Help folks learn how to add CWs and edit posts, and so on. 
 
 * If signups are open, help proccess applications to join the instance (community). New sign ups are currently closed.
 
