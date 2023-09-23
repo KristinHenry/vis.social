@@ -144,6 +144,12 @@ There are currently 3 options for chipping in to support hosting and other expen
 <img src="/images/addCW_2.jpg" alt="Adding CW" width="200">
 
 
+### set the Privacy level of your post
+1. click the 'globe' icon at the bottom of your post
+2. Select the setting you want.
+<img src="/images/howToSetPrivacyLevel.jpg" alt="Setting Privacy Level" width="200">
+
+
 
 ### upload a video
 
