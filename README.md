@@ -32,7 +32,7 @@ There are currently 3 options for chipping in to support hosting and other expen
 
 
 ----------------------------------------------------------
-** *The following is currently in development and is frequently modified* **
+** *The following is currently in development and may be frequently modified* **
 
 # FAQ & Info
 
@@ -93,6 +93,9 @@ There are currently 3 options for chipping in to support hosting and other expen
 * While "CW" technically stands for "Content Warning", vis.social and most instances use it as a "Wrapper". It's a way of adding a content label, with is very useful for noting if a post is off-topic or might need a subject line.
 * vis.social requires CWs for various subjects, including food, alchohol. Check our Rules for current topics require (or request) CWs on. 
 * It's easy to add a CW while writing your post. You can even edit an extisting post and add a CW.
+* Additional info: 
+	* https://maloki.medium.com/on-content-warnings-on-mastodon-318771be78e8
+	
 
 ### Sensitive Content
 * when uploading an image or video, you can check the 'Mark as Sensitive' option.
@@ -219,7 +222,9 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
    ```
    Hello!
 
-	Thank you for applying to join our community on vis.social! While your application looks great, you left out something we asked for.
+	Thank you for applying to join our community on vis.social! 
+
+	While your application looks great, you left out something we asked for.
 
 	Please read our 'about' page and all of our **Server Rules**, before reapplying to join our community.
 
@@ -240,7 +245,8 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 	```
 	Welcome to vis.social! 
 	In case you haven't seen it, we've worked on some documentation so folks can get familiar with mastodon and our community: https://github.com/KristinHenry/vis.social
-	--vis.social mod team
+	--vis.social mod team 
+	#visSocialWelcome
 	```
 
 
@@ -263,26 +269,11 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 	* Reply with 
 	```
 	Just a gentle reminder about CW's on our Local timeline and our instance rules: https://vis.social/about 
-	CW on AI topics. Please add CW for posts about AI, especially tools like ChatGPT. 
+	CW on AI topics. Please add CW for posts about AI, including tools like ChatGPT. 
 	```
 
 
-* Case: a new application has not seen our request for more information when requesting to join the vis.social community. This can be sent via email:
 
-```
-Hello!
-
-Thank you for signing up to join the vis.social community on Mastodon.
-
-Depending on the client you used to sign up with, you may not have seen our extended application informaion request:
-
-"We do ask that you write something about your interest in this instance and it's topics, or we'll assume you're a spammer and reject your request.  Also, we'd like to know a little about you, your interests, and what brings you here. Please review our documentation before applying to join our community:  https://github.com/KristinHenry/vis.social"
-
-You may complete you application by replying to this email.
-
---curator@vis.social 
-
-```
 
 
 ### How to moderate a report
