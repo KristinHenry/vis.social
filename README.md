@@ -13,17 +13,17 @@ https://vis.social/about
 ## Visit us 
 https://vis.social
 
-Registration is currently OPEN, and MODERATED.  ~~If you'd still like to join, get in touch with contact listed on our https://vis.social/about, with a brief introduction and why you'd like to join our community.~~
+Registration is currently paused. We expect to open then again in a few weeks. ~~Registration is currently OPEN, and MODERATED.~~  ~~If you'd still like to join, get in touch with contact listed on our https://vis.social/about, with a brief introduction and why you'd like to join our community.~~
 
 
 
 ## Financials
 
-This instance is financed by it's admin and community. 
+This instance is financed by its admin, with contributions from community members. 
 
 Our annual opperating costs (hosting, domain renewals, etc) are currently over $2,400, and all admin and moderation is performed by volunteers.
 
-There are currently 3 options for chipping in to support hosting and other expenses:
+There are currently 3 options for chipping in to help support server hosting and other expenses:
 * https://ko-fi.com/artatomic
 * https://github.com/sponsors/KristinHenry
 * https://www.patreon.com/KristinHenry
@@ -178,7 +178,7 @@ The massive influx of folks in late 2022, was a bit overwhelming to keep up with
 
 # Moderator and Admin tools and challenges
 
-The Mastodon software that runs on our server comes with a lot of tools to help us build our community. Some of them are great, and some could use improvements. But we work with the tools we have.
+The Mastodon software that runs on our server comes with a lot of tools to help us build, support, and protect our community. Some of them are great, and some could use improvements. We work with the tools we have.
 
 
 ## Moderators
@@ -195,7 +195,6 @@ The Mastodon software that runs on our server comes with a lot of tools to help 
 
 * Help folks learn how to add CWs and edit posts, and so on. 
 
-* If signups are open, help proccess applications to join the instance (community). New sign ups are currently closed.
 
 * We're also considering some optional community building activites, but they're still on the back-bench for now.
 
@@ -278,6 +277,30 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 
 ### How to moderate a report
 
+...
+
 ### Levels of action
+
+...
+
+
+### Admin Tasks
+There are tools that only Admins have access too in the Moderation interface.
+
+## Domain Level Limiting and Suspending (Blocking)
+
+* Start with a Limit! 
+
+### What we do when there is a Spam Wave:
+
+* With the help of our community members report spam, we can see patterns more quickly.
+
+* When spam wave reports start coming in:
+	* open the reports and look at what instance domains they are coming from
+	* open the moderation interface for that domain
+		* if we have any connections with that domain, place the domain on Limit. The limit may be lifted, after the wave is over. We have had to do this several times with some of the larger instances.
+		* if we have no connections with the domain, a Suspend might be in order.
+		* Look to see how old the domain is, and if there are active accounts on that domain that seem valid. If the domain seems to have been abandoned, and taken over by spammers, Suspend the domain.
+
 ...
 
