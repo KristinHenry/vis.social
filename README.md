@@ -229,6 +229,8 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 
 	Our Server Rules are listed at https://vis.social/about
 
+	Depending on the client you use for Mastodon, you may need to scroll down to see our 'Rules'. Or use the web browser client.
+
 	If you have any questions, feel free to reply to this message and we'll do our best to help you out.
 
 	
