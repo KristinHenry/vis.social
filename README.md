@@ -233,6 +233,8 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 
 	If you have any questions, feel free to reply to this message and we'll do our best to help you out.
 
+	If you're using a mobile app to sign up, you might not be seeing our full Rules. You may need to sign up through the browser client to see all of the instructions you'll need for a successful application to join our community.
+
 	
 
 	-- vis.social moderation team
