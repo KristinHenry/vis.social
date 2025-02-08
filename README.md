@@ -253,11 +253,19 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 	```
 
 
+* Case: post is off-topic, specicifally about Politics
+	
+	* Reply with 
+	```
+	I'm not sure if you're aware, but we're asking folks to use a CW "content Wrapper" when posting about politics and other off-topic subjects.  A helpful CW will include location information like 'Politics, US' or 'Politics, Paris, France' 
+	Fortunately, mastodon lets us edit posts and add CWs.
+	```
+
 * Case: post is not in English and doesn't have an English translation
 
 	* Reply with 
 	```
-	Just a reminder that "English is the common language of this community instance. Other languages are welcome, but please be kind and post English translations so that we can all read your posts on the Local Timeline. Alternatively, you could edit your post and set it as unlisted or followers only."  https://vis.social/about
+	Just a reminder that "English is the common language of this community instance. Other languages are welcome, but please be kind and post English translations so that we can all read your posts on the Local Timeline. If your original post is long, and there isn't enough room for your translation, you can always just post the translation in a reply to your original post."  https://vis.social/about
 	```
 
 
