@@ -1,14 +1,14 @@
 # vis.social
 
+**Vis.social** is a topic based community of creative people, especially anyone in Art, SciArt, SciVis SciComm, data science, data visualization, creative coding, and related arts and research. 
 
 There are different communities on Mastodon, and the greater Fediverse. They have different personalities, topics, and rules.
 
 Before joining an instance (community), you should check to see if it looks like a good fit for you. Check the instance 'Rules'. Some might suprise you, but they usually exist for good reasons, and often because someting bad happened in the past.
 
-**Vis.social** is a topic based community of creative people, especially anyone in SciArt, SciVis SciComm, data science, data visualization, creative coding, and related arts and research. 
-
 
 https://vis.social/about
+
 
 ## Visit us 
 https://vis.social
@@ -21,7 +21,7 @@ Registration is currently OPEN, and MODERATED.  Please be sure to read ALL of ou
 
 This instance is financed by its admin, with contributions from community members. 
 
-Our annual opperating costs (hosting, domain renewals, etc) are currently over $2,400, and all admin and moderation is performed by volunteers.
+Our annual opperating costs (hosting, domain renewals, etc) are currently over $3,000, and all admin and moderation is performed by volunteers.
 
 There are currently 3 options for chipping in to help support server hosting and other expenses:
 * https://ko-fi.com/artatomic
@@ -64,7 +64,7 @@ There are currently 3 options for chipping in to help support server hosting and
 ### Unlisted Posts and Privacy Levels
 * You can set the privacy level of your posts, but clicking on the 'globe' icon in the post interface. This will bring up a menu of options:
 	* **Public**: it shows up in the Local timeline, and is fully public.
-	* **Unlisted**: doesn not show up in the Local timeline.
+	* **Unlisted** (AKA **Quiet Public**): doesn not show up in the Local timeline, but can be boosted.
 	* **Followers only**: only your followers will see this.
 	* **Mentioned only**: This is the equivalent to a DM on other platforms. They are not visible to anyone except the accounts mentioned. Moderators will not see these, unless someone mention reports it to the moderation team. Note: If you recieve an abusive mention, please report it, so that we can help keep vis.social a safer place.
 
@@ -115,7 +115,7 @@ There are currently 3 options for chipping in to help support server hosting and
 * We're all human, and sometimes, we just need to express!
 	* That's cool, we all do that from time to time
 	* Try to remember to make these posts as 'Unlisted' or 'Followers Only', and not on the Local Timeline.
-	* But if all you do it sh+t-posting, maybe this isn't the instance for you. 
+	* But if all you do is sh+t-posting, this isn't the instance for you. 
 
 ### Reporting abuse and harassment
 * ToDo: write this
