@@ -13,7 +13,7 @@ https://vis.social/about
 ## Visit us 
 https://vis.social
 
-Registration is currently paused. We expect to open then again in a few weeks. ~~Registration is currently OPEN, and MODERATED.~~  ~~If you'd still like to join, get in touch with contact listed on our https://vis.social/about, with a brief introduction and why you'd like to join our community.~~
+Registration is currently OPEN, and MODERATED.  Please be sure to read ALL of our community instance Rules, and tell us a little bit about yourself and why you'd like to join our community rather than any other instance.
 
 
 
