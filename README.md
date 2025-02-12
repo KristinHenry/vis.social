@@ -235,6 +235,7 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 
 	If you're using a mobile app to sign up, you might not be seeing our full Rules. You may need to sign up through the browser client to see all of the instructions you'll need for a successful application to join our community.
 
+	Because of how the registration process works, you will need to sign up again.
 	
 
 	-- vis.social moderation team
