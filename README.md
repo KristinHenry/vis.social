@@ -19,7 +19,7 @@ https://vis.social/about
 * Ask questions! And use hashtags!
 * Hashtags should be CamelCase, for accessibility and easier reading for everyone
 * Add Alt-text to any images you post.
-* Add CWs to any off-topic posts on the Public Local Timeline
+* Add CWs to any off-topic posts on the Public Local Timeline. If you're not sure, use a CW, and think of it as a 'subject' or headline.
 * You can make your posts 'unlisted'/'quiet public' by default, in your settings
 
 
