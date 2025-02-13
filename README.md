@@ -10,6 +10,21 @@ Before joining an instance (community), you should check to see if it looks like
 https://vis.social/about
 
 
+## Quick Guid to Getting Started on vis.social, Mastodon, and the greater Fediverse
+
+* Fill out your profile and add a profile image
+* Make and #introduction post, telling folks about what you're interested in, using the hashtag "#introduction"
+* Take a look at the vis.social Local Timeline, where you'll find some great accounts to follow
+* You can follow hashtags! #Bloomscrolling is a nice relaxing one.
+* Ask questions! And use hashtags!
+* Hashtags should be CamelCase, for accessibility and easier reading for everyone
+* Add Alt-text to any images you post.
+* Add CWs to any off-topic posts on the Public Local Timeline
+* You can make your posts 'unlisted'/'quiet public' by default, in your settings
+
+
+
+
 ## Visit us 
 https://vis.social
 
