@@ -16,6 +16,7 @@ https://vis.social/about
 * Make and #introduction post, telling folks about what you're interested in, using the hashtag "#introduction"
 * Take a look at the vis.social Local Timeline, where you'll find some great accounts to follow
 * You can follow hashtags! #Bloomscrolling is a nice relaxing one.
+* Follow the #visSocialTips hashtag. We tend to make important announcements, and help tips, with this tag.
 * Ask questions! And use hashtags!
 * Hashtags should be CamelCase, for accessibility and easier reading for everyone
 * Add Alt-text to any images you post.
