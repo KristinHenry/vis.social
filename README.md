@@ -155,12 +155,14 @@ There are currently 3 options for chipping in to help support server hosting and
 <img src="/images/editAltText.jpg" alt="Adding Alt Text" width="200">
 
 ### add a CW to your post:
-1. Click on the "CW" at the bottom of your post 
+1. Click on the "CW", or triangle icon, at the bottom of your post 
 2. Enter text describing the content of the post
 3. Save Changes
 
-<img src="/images/addCW_1.jpg" alt="Adding CW" width="200">
+<img src="/images/addCW_1.jpg" alt="Adding CW" width="200"><img src="/images/newCWbutton.png" alt="Adding CW" width="200">
 <img src="/images/addCW_2.jpg" alt="Adding CW" width="200">
+
+
 
 
 ### set the Privacy level of your post
