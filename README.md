@@ -271,6 +271,17 @@ Occassionally, an issue comes up that needs to be dealt with. This can be a mino
 	#visSocialWelcome
 	```
 
+* Case: an existing member with inactive account that's been frozen, asks to return
+ ```
+ Welcome back to vis.social! 
+ In case you haven't seen it, we've worked on some documentation so folks can get familiar with mastodon and our community: https://github.com/KristinHenry/vis.social
+
+ Please also review our community Rules: https://vis.social/about
+
+ --vis.social mod team 
+ #visSocialWelcome
+ ```
+
 
 * Case: post is off-topic, specicifally about Politics
 	
